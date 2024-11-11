@@ -1,0 +1,13 @@
+{
+  "alert": {
+    "title": "",
+    "message": "",
+    "button": "",
+    "url": "",
+    "versionCode": 1
+  },
+  "keyword": [
+    "progressive_urls",
+    "progressive_url"
+  ]
+}
