@@ -4,11 +4,13 @@
     "message": "",
     "button": "",
     "url": "",
-    "versionCode": 1
+    "versionCode": 1,
+"imageUrl":""
   },
   "keywords": [
     "progressive_urls",
     "progressive_url"
   ],
-"hideSubTitleCode":30
+"hideSubTitleCode":30,
+"disguise_code":31
 }
