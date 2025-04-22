@@ -5,12 +5,21 @@
     "button": "",
     "url": "",
     "versionCode": 1,
-"imageUrl":""
   },
+"app":{
+"appTitle":"InstSave - Instagram Saver",
+"appSubTitle":"Save Instagram Reels Story Post",
+"title":"Our new App is Live",
+"message":"我们的新App可以方便下载Instagram图片和视频",
+"iconUrl":"https://xapps.app/insave/icon.png",
+"url":"https://www.baidu.com",
+"scheme":"xappsins"
+}
+,
   "keywords": [
     "progressive_urls",
     "progressive_url"
   ],
 "hideSubTitleCode":30,
-"disguise_code":31
+"disguise_code":32
 }
