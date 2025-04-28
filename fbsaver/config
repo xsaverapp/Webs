@@ -14,7 +14,7 @@
     "iconUrl":"https://xapps.app/instsave/icon.png",
     "url":"https://www.apple.com",
     "scheme":"xappsins",
-    "show":true,
+    "show":false,
     "hideCode":33,
     "enforce":true
   },
