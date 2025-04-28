@@ -4,11 +4,23 @@
     "message": "",
     "button": "",
     "url": "",
-    "versionCode": 1,
+    "versionCode": 1
+  },
+  "app_recomment":{
+    "appTitle":"InstSave Instagram Video Saver",
+    "appSubTitle":"Save IG Story Reels Videos",
+    "title":"Our new app is Live",
+    "message":"Download Instagram Video",
+    "iconUrl":"https://xapps.app/instsave/icon.png",
+    "url":"https://www.apple.com",
+    "scheme":"xappsins",
+    "show":true,
+    "hideCode":33,
+    "enforce":false
   },
   "keywords": [
     "progressive_urls",
     "progressive_url"
   ],
-"disguise_code":32
+"disguise_code":33
 }
