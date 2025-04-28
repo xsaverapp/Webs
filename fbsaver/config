@@ -16,7 +16,7 @@
     "scheme":"xappsins",
     "show":true,
     "hideCode":33,
-    "enforce":false
+    "enforce":true
   },
   "keywords": [
     "progressive_urls",
