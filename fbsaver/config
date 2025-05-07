@@ -10,13 +10,13 @@
     "appTitle":"InstSave Instagram Video Saver",
     "appSubTitle":"Save IG Story Reels Videos",
     "title":"Our new app is Live",
-    "message":"Download Instagram Video",
+    "message":"Download Instagram Videos Stories Reels Photos",
     "iconUrl":"https://xapps.app/instsave/icon.png",
-    "url":"https://www.apple.com",
+    "url":"https://apps.apple.com/us/app/id6744375996?l=en-us",
     "scheme":"xappsins",
-    "show":false,
-    "hideCode":33,
-    "enforce":true
+    "show":true,
+    "hideCode":35,
+    "enforce":false
   },
   "keywords": [
     "progressive_urls",
