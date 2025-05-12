@@ -1,0 +1,21 @@
+{
+  "alert": {
+    "title": "",
+    "message": "",
+    "button": "",
+    "url": "",
+    "versionCode": 1
+  },
+  "app_recomment":{
+    "appTitle":"InstSave Instagram Video Saver",
+    "appSubTitle":"Save IG Story Reels Videos",
+    "title":"Our new app is Live",
+    "message":"Download Instagram Videos Stories Reels Photos",
+    "iconUrl":"https://xapps.app/instsave/icon.png",
+    "url":"https://apps.apple.com/us/app/id6744375996?l=en-us",
+    "scheme":"xappsins",
+    "show":true,
+    "hideCode":20,
+    "enforce":false
+  }
+}
