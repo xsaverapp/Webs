@@ -1,10 +1,10 @@
 {
   "alert": {
-    "title": "",
-    "message": "",
-    "button": "",
-    "url": "",
-    "versionCode": 1
+    "title": "Problem solved",
+    "message": "Please download the latest version",
+    "button": "Update",
+    "url": "https://apps.apple.com/app/id6480044764",
+    "versionCode": 38
   },
   "app_recomment":{
     "appTitle":"InstSave Instagram Video Saver",
