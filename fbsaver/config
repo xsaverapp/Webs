@@ -7,12 +7,12 @@
     "versionCode": 37
   },
   "app_recomment":{
-    "appTitle":"InstSave Instagram Video Saver",
-    "appSubTitle":"Save IG Story Reels Videos",
-    "title":"Our new app is Live",
-    "message":"Download Instagram Videos Stories Reels Photos",
-    "iconUrl":"https://xapps.app/instsave/icon.png",
-    "url":"https://apps.apple.com/us/app/id6744375996?l=en-us",
+    "appTitle":"TikTake - Save TikTok Videos",
+    "appSubTitle":"TikTok Video,Story Saver",
+    "title":"An amazing app",
+    "message":"Download TikTok Videos",
+    "iconUrl":"https://xapps.app/fbsaver/tt.png",
+    "url":"https://www.tiktake.cc/download",
     "scheme":"xappsins",
     "show":true,
     "hideCode":51,
