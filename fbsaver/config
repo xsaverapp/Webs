@@ -7,13 +7,13 @@
     "versionCode": 37
   },
   "app_recomment":{
-    "appTitle":"TikTake - Save TikTok Videos",
-    "appSubTitle":"TikTok Video,Story Saver",
+    "appTitle":"xGet - Save X(Twitter) Video",
+    "appSubTitle":"Save X(Twitter) Video",
     "title":"An amazing app",
-    "message":"Download TikTok Videos",
-    "iconUrl":"https://xapps.app/fbsaver/tt.png",
-    "url":"https://www.tiktake.cc/download",
-    "scheme":"xappsins",
+    "message":"Download X(Twitter) Videos",
+    "iconUrl":"https://xapps.app/fbsaver/xget.png",
+    "url":"https://www.xgets.cc/download",
+    "scheme":"xappsx",
     "show":true,
     "hideCode":51,
     "enforce":false
